@@ -19,21 +19,13 @@
 -   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
 
 ## Table of Contents
--   [CS Class Tools](#CS-Class-Tools)
+
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
--   [IB](#IB)
--   [Arduino](#Arduino)
--   [Alexa Tutorials](#Alexa-Tutorials)
--   [Images](#Images)
 -   [Github](#Github)
+-   [Images](#Images)
 -   [Robotics](#Robotics)
--   [Hardware](#Hardware)
--   [Networking](#Networking)
--   [Design](#Design)
--   [Linux](#Linux)
--   [School](#School)
 -   [Other](#Other)
 
 
@@ -45,7 +37,6 @@
 -   [USGS Earthquake Real Time Notification Feeds](https://earthquake.usgs.gov/earthquakes/feed/){:target="_blank"}
 -   [Open Processing - Creative Coding](https://www.openprocessing.org/){:target="_blank"}
 -   [Processing.org](https://processing.org/){:target="_blank"}
--   [Netlify](https://www.netlify.com){:target="_blank"}
 
 ### Python 
 -   [Python w3schools Tutorial](https://www.w3schools.com/python/default.asp){:target="_blank"}
@@ -84,13 +75,11 @@
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
  
 ### Github
--   [How to Create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github){:target="_blank"}
--   [GitHub Learning Lab](https://lab.github.com/){:target="_blank"}
+-   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
 -   [Google Launchpad Accelerators](https://developers.google.com/programs/launchpad/accelerators/){:target="_blank"}
 -   [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851){:target="_blank"}
--   [Hacktoberfest](https://hacktoberfest.digitalocean.com/){:target="_blank"}
 
 ### Robotics
 -   [Portland Robotics](https://portlandrobotics.org/home.php){:target="_blank"}
@@ -107,16 +96,17 @@
 ### Design
 -   [Munsell Hue Test](http://www.colormunki.com/game/huetest_kiosk){:target="_blank"}
 -   [David Seah](https://davidseah.com/){:target="_blank}
--   [Human-centered design charrette - requires Moodle login](https://csmoodle.clevelandhighschool.org/pluginfile.php/2570/mod_page/content/45/HCDCharretteSlideDeck.pdf)
 
 ### Linux
 -   [Linux Tutorial Index](http://www.yolinux.com/TUTORIALS/){:target="_blank"}
 -   [PacVIM](https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/){:target="_blank}
+-   [DistroWatch](https://distrowatch.com/search.php?status=All){:target="_blank}
 
 ### School
 -   [Mathway](https://www.mathway.com/Algebra){:target="_blank"}
 -   [Microsoft Virtual Academy](https://mva.microsoft.com/){:target="_blank"}
 -   [Physics Notes*](https://landgreen.github.io/physics/index.html){:target="_blank"}
+-   [Wolfram|Alpha](https://www.wolframalpha.com/){:target="_blank"}
 
 ### Other
 -   [Intern Supply](https://intern.supply/){:target="_blank"}
